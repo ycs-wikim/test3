@@ -1,0 +1,6 @@
+LICENSE
+README.md
+new.txt
+test.txt
+ttt.txt
+work.txt
